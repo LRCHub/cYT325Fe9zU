@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Freaks",
+  "base_artist": "Surf Curse",
+  "createdAt": "2026-02-21T19:59:21.648766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Freaks",
+      "artist": "Surf Curse",
+      "has_synced": true,
+      "path": "select/01_Freaks_Surf_Curse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One with the Freaks",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/02_One_with_the_Freaks_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Peace To All Freaks",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/03_Peace_To_All_Freaks_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "3 Freaks (Droop-E Remix)",
+      "artist": "DJ Shadow feat. Mistah F.A.B., Turf Talk & Keak da Sneak",
+      "has_synced": false,
+      "path": "select/04_3_Freaks_(Droop-E_Remix)_DJ_Shadow_feat._Mistah_F.A.B.,_Turf_Talk_&_Keak_da_Sneak.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soldier Boys And Jesus Freaks",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": false,
+      "path": "select/05_Soldier_Boys_And_Jesus_Freaks_Noel_Gallagher's_High_Flying_Birds.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soldier Boys And Jesus Freaks",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/06_Soldier_Boys_And_Jesus_Freaks_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Freaks In Love",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/07_Freaks_In_Love_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3 Freaks",
+      "artist": "DJ Shadow feat. Keak da Sneak & Turf Talk",
+      "has_synced": true,
+      "path": "select/08_3_Freaks_DJ_Shadow_feat._Keak_da_Sneak_&_Turf_Talk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3 Freaks",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/09_3_Freaks_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Freaks & Geeks",
+      "artist": "Oliver Tree",
+      "has_synced": true,
+      "path": "select/10_Freaks_&_Geeks_Oliver_Tree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Return To The Valley Of) Out Come The Freaks",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/11_(Return_To_The_Valley_Of)_Out_Come_The_Freaks_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Out Come the Freaks",
+      "artist": "Was (Not Was)",
+      "has_synced": true,
+      "path": "select/12_Out_Come_the_Freaks_Was_(Not_Was).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Out Come the Freaks",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/13_Out_Come_the_Freaks_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Out come the freaks - 12\" Remix",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/14_Out_come_the_freaks_-_12__Remix_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Out Come the Freaks (12″ remix)",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/15_Out_Come_the_Freaks_(12′′_remix)_Was_(Not_Was).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Out Come the Freaks (Again)",
+      "artist": "Was (Not Was)",
+      "has_synced": false,
+      "path": "select/16_Out_Come_the_Freaks_(Again)_Was_(Not_Was).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Freaks",
+      "artist": "Surf Curse",
+      "has_synced": false,
+      "path": "select/pl_01_Freaks_Surf_Curse.txt"
+    }
+  ]
+}
