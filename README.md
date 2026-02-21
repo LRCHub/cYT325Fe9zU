@@ -1,0 +1,28 @@
+# Surf Curse – Freaks
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.78] Don't kill me
+[00:25.75] Just help me run away from everyone
+[00:30.89] I need a place to stay
+[00:33.64] Where I can cover up my face
+[00:39.19] Don't cry
+[00:43.69] 
+[00:41.87] I am just a freak!
+[00:50.87] 
+[00:47.08] I am just a freak!
+[00:56.08] 
+[00:52.28] I am just a freak!
+[01:01.28] 
+[00:57.50] I am just a freak!
+[01:06.50] 
+[01:20.34] My head is filled with parasites
+[01:27.17] Black holes cover up my eyes
+[01:32.26] I dream of you almost every night
+[01:37.96] Hopefully, I won't wake up this time
+[01:55.96] 
+[01:45.61] I won't wake up this time!
+[01:50.94] I won't wake up this time!
+[01:56.32] I won't wake up this time!
+```
